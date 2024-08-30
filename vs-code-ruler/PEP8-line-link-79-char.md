@@ -30,6 +30,8 @@ Edit in `settings.json`
 
 **Click the settings.json link**
 
+![Search Rulers](search-rulers.png)
+
 `settings.json` will open.
 
 Your settings file may have a few lines of settings or a lot of lines of settings, but find the line with the `"editor.rulers":` setting and edit it to look like this:
