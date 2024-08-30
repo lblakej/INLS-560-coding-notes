@@ -53,12 +53,14 @@ If you only have one setting in the brackets, you do not need a comma as shown b
     "editor.rulers": [79],
     "files.autoSave": "afterDelay",
     "editor.minimap.enabled": false,
-    ```
+```
 
-    If you ever want to remove the vertical ruler, you may edit the settings and just leave it blank:
+If you ever want to remove the vertical ruler, you may edit the settings and just leave it blank:
 
     ```
      "editor.rulers": []
     ```
 
-After you have your ruler turned on, go into your assignment_01 folder on your computer and code up this example. Once you have it all done, take a screen shot of your code same as the sample below. Then you should drag it and drop it into your Assignment01_folder on GitHub.
+After you have your ruler turned on, go into your assignment_01 folder on your computer and code up the example below. Once you have it all done, take a screen shot of your code same as the sample below. Then you should drag it and drop it into your Assignment01_folder on GitHub. Before you take your screenshot, click into the terminal area and type clear and enter. Then run again so you will not have to include all of your previous code runs as you were testing.
+
+![code example](79_char_ruler_example.png)
