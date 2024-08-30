@@ -63,4 +63,8 @@ If you ever want to remove the vertical ruler, you may edit the settings and jus
 
 After you have your ruler turned on, go into your assignment_01 folder on your computer and code up the example below. Once you have it all done, take a screen shot of your code same as the sample below. Then you should drag it and drop it into your Assignment01_folder on GitHub. Before you take your screenshot, click into the terminal area and type clear and enter. Then run again so you will not have to include all of your previous code runs as you were testing.
 
+```
+lawrencejones@Lawrences-MacBook-Pro assignment_01 % clear
+```
+
 ![code example](79_char_ruler_example.png)
