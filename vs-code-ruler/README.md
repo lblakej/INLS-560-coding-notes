@@ -1,6 +1,6 @@
 # Adding a ruler to Microsoft Visual Studio
 
-*While you are coding, you can align with Python’s PEP8 style guide by updating the Studio Code IDE with a vertical ruler.*
+*While you are coding, you can align with Python’s [PEP8 style guide](https://peps.python.org/pep-0008/#maximum-line-length) by updating the Studio Code IDE with a vertical ruler.*
 
 One of PEP8’s conventions is that the maximum line length is 79 characters. To help you stick to this convention,  you can set up a ruler in Visual Studio Code.
 
