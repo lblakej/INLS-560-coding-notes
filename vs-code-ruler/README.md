@@ -60,3 +60,5 @@ If you only have one setting in the brackets, you do not need a comma as shown b
     ```
      "editor.rulers": []
     ```
+
+After you have your ruler turned on, go into your assignment_01 folder on your computer and code up this example. Once you have it all done, take a screen shot of your code same as the sample below. Then you should drag it and drop it into your Assignment01_folder on GitHub.
