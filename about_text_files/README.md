@@ -22,3 +22,6 @@ Perfectly okay for command line. This is considered a text file even though it d
 
 `the-force.md`
 
+## HTML
+
+Simply adding an `.html` extension will not make this a valid HTML file, but the text will be presented in a browser with exta spaces removed. (except one space between words). This can be a very quick way to process raw text quickly so that all of the extra spaces are removed. Installing live preview in Visual Studio Code makes it so you don't have to open a browser.
