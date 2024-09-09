@@ -11,7 +11,10 @@ Microsoft has ton of documentation at <https://code.visualstudio.com/docs>
   * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
   * [VS Code PDF](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
   
-  ## Review of Visual Studio Code
+  ## Integrating GitBash in Visual Studio Code (Windows)
+
+  If you are a windows user, you can [access GitBash within Visual Studio Code](https://www.geeksforgeeks.org/how-to-integrate-git-bash-with-visual-studio-code/).
+  
 
   
 
