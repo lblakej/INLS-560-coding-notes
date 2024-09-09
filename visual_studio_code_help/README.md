@@ -7,7 +7,7 @@ Microsoft has ton of documentation at <https://code.visualstudio.com/docs>
 * [Extensions Overview](https://code.visualstudio.com/docs/editor/extension-marketplace) | [Extensions Search](https://marketplace.visualstudio.com/VSCode)
   * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   * [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
-  * [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+  * [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) (You will need this for functions class, so install it!)
   * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
   * [VS Code PDF](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
   
