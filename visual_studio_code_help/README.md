@@ -13,7 +13,7 @@ Microsoft has ton of documentation at <https://code.visualstudio.com/docs>
   
   ## Integrating GitBash in Visual Studio Code (Windows)
 
-  If you are a windows user, you can [access GitBash within Visual Studio Code](https://www.geeksforgeeks.org/how-to-integrate-git-bash-with-visual-studio-code/).
+  If you are a windows user, you can [access GitBash within Visual Studio Code]([https://www.geeksforgeeks.org/how-to-integrate-git-bash-with-visual-studio-code/](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_git-bash-on-windows)).
   
 
   
