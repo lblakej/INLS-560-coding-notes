@@ -1,9 +1,9 @@
 # Exam Review
 ## Functions 2
 
+* [Procedural vs. Functional vs. OOP](https://docs.google.com/presentation/d/1TaoSx1kaDwMoERzsWfSrAt8sDnAi5_JtCGy8qwgUTzw/edit#slide=id.g2bbf192d2f1_0_9)
+* [Is the Global Variable inside or outside the function?](https://docs.google.com/presentation/d/1TaoSx1kaDwMoERzsWfSrAt8sDnAi5_JtCGy8qwgUTzw/edit#slide=id.g2bbf192d2f1_0_29)
 
-* [Variable Scope]()
-* [Procedural vs. Fuctional vs. OOP]()
 * [Math Module]()
 * [Random Module]()
 * [RE module]()
