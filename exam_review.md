@@ -2,7 +2,9 @@
 ## Functions 2
 
 * [Procedural vs. Functional vs. OOP](https://docs.google.com/presentation/d/1TaoSx1kaDwMoERzsWfSrAt8sDnAi5_JtCGy8qwgUTzw/edit#slide=id.g2bbf192d2f1_0_9)
-   * We start out INLS 560 with procedural programming, then we learned about functions, then we covered OOP   
+   * We start out INLS 560 with procedural programming (no functions just `if`, `elif`, `else` and `while` and `for` loops)
+   *  then we learned about functions (def keyword using parameters, arguments,
+   *   then we covered OOP   
 * [Is the Global Variable inside or outside the function?](https://docs.google.com/presentation/d/1TaoSx1kaDwMoERzsWfSrAt8sDnAi5_JtCGy8qwgUTzw/edit#slide=id.g2bbf192d2f1_0_29)
 
 * [Math Module]()
